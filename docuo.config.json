@@ -1,9 +1,9 @@
 {
-  "title": "My site",
+  "title": "lena",
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
+      "title": "lena",
       "logo": "image/logo.png",
       "items": [
         {
